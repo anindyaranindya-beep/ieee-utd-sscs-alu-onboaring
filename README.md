@@ -503,7 +503,7 @@ The objective of this onboarding challenge is to demonstrate that you can:
 
 ---
 
-## Simulation Submission
+## Submission
 
 After completing your ALU implementation and running the provided testbench, please capture a screenshot of your **simulated waveforms**.
 
