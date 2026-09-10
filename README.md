@@ -501,5 +501,18 @@ The objective of this onboarding challenge is to demonstrate that you can:
 
 **The goal is to design the hardware correctly — not merely to satisfy a small set of specific test vectors.**
 
+---
+
+## Simulation Submission
+
+After completing your ALU implementation and running the provided testbench, please capture a screenshot of your **simulated waveforms**.
+
+Your waveform should clearly show the relevant ALU inputs, `ALUControl`, `Result`, and status flags during simulation.
+
+**Please attach your simulated waveform screenshot to the submission form along with your final RTL submission.**
+
+
+
+
 
 
